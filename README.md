@@ -8,4 +8,4 @@ This folder contains the following files:
 - *perform_simulaiton.R*: one replicate of the implementation of COPES-SIR, COPES-SAVE, and COPES-DR methods in one of Model (A)-(D).
 
 ## Reference
-Chen, L., and Zeng, J. (2022). Dimension Reduction for Extreme Regression via Contour Projection. *Statistica Sinica*, (just-accepted).
+Chen, L., and Zeng, J. (2024+). Dimension Reduction for Extreme Regression via Contour Projection. *Statistica Sinica*, (just-accepted).
